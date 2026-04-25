@@ -1,11 +1,14 @@
-# IRage - Machine Learning Regression Project
+# IRage - Short-Horizon Return Prediction Challenge
 
 ## Project Overview
 
-This project tackles a machine learning regression challenge with multiple advanced techniques and ensemble methods. The project achieved:
+This project participates in the **Short-Horizon Return Prediction Challenge by iRage**, a machine learning competition focused on predicting financial returns. The solution employs multiple advanced techniques and ensemble methods to achieve:
 
 - **Rank: 343 out of 518** competitors
 - **R² Score: -0.00165**
+
+### Challenge Description
+The Short-Horizon Return Prediction Challenge by iRage is a regression task aimed at predicting market returns using machine learning techniques. Participants develop models to forecast financial market movements based on available features and historical data.
 
 ## Project Structure
 
